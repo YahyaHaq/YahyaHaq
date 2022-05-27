@@ -1,5 +1,5 @@
-Software Engineer @ SSI
-Python | Golang | Backend
+Software Engineer @ SSI \n
+Python | Golang | Backend \n
 Just looking to make an impact and have fun at the same time
 
 <!---
